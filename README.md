@@ -1,19 +1,13 @@
-# Deep Learning Roadmap
+# Deep Learning Road map
 
 Here is a list of high quality resources for anyone intending to dive into deep learning world. The list consists of different types of material including textbooks, video courses, and blog posts. Some of theme may overlap, but it doesn't hurt to read something you already know from the perspective of another expert.
 
-**It is presumed that you already know what machine learning is, what are its types (supervised, unsupervised), and what problems it aims to some (i.e. classification, regression, etc.)**
-[or maybe add some intro to ml courses too]
+### This list consists of three major parts:
+* **Part one: pre-requisites** which covers the topics you must master (or at least get familiar with) in order to start studying deep learning. If you are already familiar with the the requirements, you can skip the resources mentioned in this part. However it can also be used as means of reviewing.  
 
+* **Part two: deep learning basics** where the magic starts. This section covers some sources about deep learning theory and also tools and implementations.  
 
-strucure:
-three parts, in each part divide into video, book, posts
-
-
--- parts: 1. pre-requisites, 2. start deep learning, 3. become a master in one field
-
--- make it two parts: first genreral/beginner
--- then for mid-level and advanced for each Specific topic
+* **Part three: we need to get deeper.** This is where you have to choose what you want to master. Here are some resources about deep learning and its use cases in different fields. These fields include (but it's not limited to) computer vision, natural language processing, autonomous cars, etc. Don't get afraid if the list gets too long. You don't have to read them all :)
 
 
 ## Part one: pre-requisites
@@ -25,7 +19,7 @@ Although this list aims to go in depth for deep learning, I have gathered a smal
 
 ### Programming
 * [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/)  
-  In contrast to its own name, this book teaches python in a straight and to the point way.
+  In contrast to its own name, this book teaches python in a straightforward and to the point way.
 
 
 ### Math
