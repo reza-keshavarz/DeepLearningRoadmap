@@ -43,8 +43,12 @@ This is probably the most famous book for machine learning, and for good reason.
 
 
 ## Part two: deep learning basics
+#### Online Courses
+* [Deep Learning Specialization by deeplearning.ai](https://www.coursera.org/specializations/deep-learning)  
+This specialization is probably the best place to start learning deep learning. It consists of 5 courses and covers from the foundations of artificial neural networks up to natural language processing and computer vision.
 
--- soon --
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition \(Second part)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
+Yes. This book gets mentioned twice. But this time, it's about second part of the book. It can be either a starting point for your deep learning journey or a complement to the coursera specialization mentioned above. Both choices are reasonable.
 
 
 ## Part three: we need to get deeper
