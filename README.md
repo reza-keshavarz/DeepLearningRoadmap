@@ -18,14 +18,20 @@ To tackle deep learning, you must at least be familiar with the following:
 Although this list aims to go in depth for deep learning, I have gathered a small list of resources for these three pre-requisites.
 
 ### Programming
+#### Books
+
 * [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/)  
   In contrast to its own name, this book teaches python in a straightforward and to the point way.
 
 
 ### Math
+#### Online Courses
+
 * [Mathematics for Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)  
   This specialization covers the basics of mathematics needed in deep learning, including linear algebra and multivariate calculus.  
 
+
+#### Books
 
 * [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)  
   This O'Reilly book covers some useful concepts in statistics and probability, and their implementation in both R and Python programming languages.  
@@ -33,6 +39,8 @@ Although this list aims to go in depth for deep learning, I have gathered a smal
 
 
 ### Machine learning
+#### Books
+
 * [Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)  
   This book covers different aspects of working with data, including visualization and modeling. What makes it different from the rest is that it tries to avoid pre-written tools and aims to expose the reader to the underlying concepts first. This gives the reader a deeper understanding of data science which will become handy when things get harder :)  
 
